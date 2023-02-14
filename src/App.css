@@ -9,3 +9,40 @@ body {
   padding: 0;
   margin: 0;
 }
+.footer{
+  background-color: rgb(147, 147, 147);
+  width: 100%;
+  padding-top: 0.4vw;
+  text-align: center;
+}
+h5{
+  font-size: 18px;
+}
+.contact{
+  font-size: 1.8vw;
+  margin-right: 15%;
+  font-weight: 600;
+  color: rgb(60, 60, 60);
+}
+.Email{
+  display: flex;
+  margin-left: 40vw;
+}
+.gmail_head{
+  font-weight: 700;
+}
+.gmail{
+  cursor: pointer;
+  margin-left: 5px; 
+  color: rgb(60, 60, 60);
+}
+.icons{
+  display: flex;
+  margin-left: 38vw;
+}
+.LinkedIn , .Instagram , .Twitter{
+  padding-left: 2vw;
+  font-size: 30px;
+  color:rgb(65, 65, 65);
+  cursor: pointer;
+}

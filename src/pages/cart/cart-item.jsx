@@ -16,7 +16,8 @@ export const CartItem = (props) => {
         <p> Price: ${price}</p>
         <div className="countHandler">
           <button onClick={() => removeFromCart(id)}> - </button>
-          <input
+          {/* <button onClick={() => removeFromCart(id)}>{2 ? "delete" : "-"}</button> */}
+          <input className="Quantity"
             value={cartItems[id]}
             onChange={(e) => updateCartItemCount(Number(e.target.value), id)}
           />
