@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Mystery-Art-Store/static/css/main.5126814f.css",
+    "main.js": "/Mystery-Art-Store/static/js/main.99d3b1c5.js",
+    "static/media/13.webp": "/Mystery-Art-Store/static/media/13.3a922fafd776d6d447d0.webp",
+    "static/media/10.webp": "/Mystery-Art-Store/static/media/10.e7e1ab3ce5b2e248b4d4.webp",
+    "static/media/5.webp": "/Mystery-Art-Store/static/media/5.6a2415263076389ee89d.webp",
+    "static/media/3.webp": "/Mystery-Art-Store/static/media/3.f5ccc208ac71ca72c337.webp",
+    "static/media/15.webp": "/Mystery-Art-Store/static/media/15.1b0b1b08048d3d335714.webp",
+    "static/media/11.webp": "/Mystery-Art-Store/static/media/11.78f19058751a369714be.webp",
+    "static/media/8.webp": "/Mystery-Art-Store/static/media/8.3479d4daadea48fbced3.webp",
+    "static/media/13.png": "/Mystery-Art-Store/static/media/13.b9e83a266cc8d521ce2e.png",
+    "static/media/7.webp": "/Mystery-Art-Store/static/media/7.5a86cfb7009c995fff1d.webp",
+    "static/media/12.webp": "/Mystery-Art-Store/static/media/12.7f5bcdbe29cc52676e3f.webp",
+    "static/media/9.webp": "/Mystery-Art-Store/static/media/9.bb2b45f6afcd8a229470.webp",
+    "static/media/6.webp": "/Mystery-Art-Store/static/media/6.1086b7679109958022ef.webp",
+    "static/media/4.webp": "/Mystery-Art-Store/static/media/4.8becc903cc3e7fafb2d6.webp",
+    "static/media/2.webp": "/Mystery-Art-Store/static/media/2.a7051bc00d0ca98c23ff.webp",
+    "static/media/1.webp": "/Mystery-Art-Store/static/media/1.72698370aa4d39ce0bc0.webp",
+    "static/media/14.webp": "/Mystery-Art-Store/static/media/14.634d1d0771fc137291aa.webp",
+    "index.html": "/Mystery-Art-Store/index.html",
+    "main.5126814f.css.map": "/Mystery-Art-Store/static/css/main.5126814f.css.map",
+    "main.99d3b1c5.js.map": "/Mystery-Art-Store/static/js/main.99d3b1c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5126814f.css",
+    "static/js/main.99d3b1c5.js"
+  ]
+}
